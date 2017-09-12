@@ -1,11 +1,11 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)][repository]
 [![Python](https://img.shields.io/badge/python-2.7-blue.svg)][python]
-[![License](https://img.shields.io/github/license/iRB-Lab/PPG-Surface.svg)][license]
-[![Watchers](https://img.shields.io/github/watchers/iRB-Lab/PPG-Surface.svg?style=social&label=Watch)][watch]
-[![Stargazers](https://img.shields.io/github/stars/iRB-Lab/PPG-Surface.svg?style=social&label=Star)][star]
-[![Forks](https://img.shields.io/github/forks/iRB-Lab/PPG-Surface.svg?style=social&label=Fork)][fork]
+[![License](https://img.shields.io/github/license/iRB-Lab/PPG-N-Back-Surface.svg)][license]
+[![Watchers](https://img.shields.io/github/watchers/iRB-Lab/PPG-N-Back-Surface.svg?style=social&label=Watch)][watch]
+[![Stargazers](https://img.shields.io/github/stars/iRB-Lab/PPG-N-Back-Surface.svg?style=social&label=Star)][star]
+[![Forks](https://img.shields.io/github/forks/iRB-Lab/PPG-N-Back-Surface.svg?style=social&label=Fork)][fork]
 
-# PPG-Surface
+# PPG/N-Back/Surface
 Photoplethysmogram-based Real-Time Cognitive Load Assessment Using Multi-Feature Fusion Model
 
 ## Installation
@@ -19,7 +19,7 @@ Photoplethysmogram-based Real-Time Cognitive Load Assessment Using Multi-Feature
 On Unix, Linux, BSD, macOS, and Cygwin:
 
 ```sh
-git clone https://github.com/iRB-Lab/PPG-Surface.git
+git clone https://github.com/iRB-Lab/PPG-N-Back-Surface.git
 cd PPG
 virtualenv venv
 source venv/bin/activate
@@ -454,11 +454,11 @@ semilogy(args, backend=None)
 ## License
 [MIT License][license]
 
-[repository]: https://github.com/iRB-Lab/PPG-Surface "iRB-Lab/PPG-Surface"
-[license]: https://github.com/iRB-Lab/PPG-Surface/LICENSE "License"
-[watch]: https://github.com/iRB-Lab/PPG-Surface/watchers "Watchers"
-[star]: https://github.com/iRB-Lab/PPG-Surface/stargazers "Stargazers"
-[fork]: https://github.com/iRB-Lab/PPG-Surface/network "Forks"
+[repository]: https://github.com/iRB-Lab/PPG-N-Back-Surface "iRB-Lab/PPG-N-Back-Surface"
+[license]: https://github.com/iRB-Lab/PPG-N-Back-Surface/LICENSE "License"
+[watch]: https://github.com/iRB-Lab/PPG-N-Back-Surface/watchers "Watchers"
+[star]: https://github.com/iRB-Lab/PPG-N-Back-Surface/stargazers "Stargazers"
+[fork]: https://github.com/iRB-Lab/PPG-N-Back-Surface/network "Forks"
 
 [macos]: https://www.apple.com/macos/ "macOS"
 [python]: https://docs.python.org/2/ "Python 2.7"
