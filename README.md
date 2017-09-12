@@ -209,7 +209,7 @@ python classify.py
 ## Sensors and Features
 |Sensor|Feature|Dimension|
 |:--|:--|:-:|
-|PPG finger clip|PPG-45 (39 time-domain, 9 frequency-domain)|45|
+|Surface device|PPG-45 (39 time-domain, 9 frequency-domain)|45|
 ||Stress-induced vascular response index (sVRI)|1|
 
 ### PPG-45 Feature Definition
@@ -325,7 +325,7 @@ svri = extract_svri(single_waveform)
 ### Module: `ppg.learn`
 ##### Get Feature Set
 ```python
-train_features, train_labels, test_features, test_labels = get_feature_set(data, task_levels, feature_types)
+train_features, train_labels, test_features, test_labels = get_feature_set(data, level_set, feature_type_set)
 ```
 
 #### Classifiers
