@@ -20,7 +20,7 @@ On Unix, Linux, BSD, macOS, and Cygwin:
 
 ```sh
 git clone https://github.com/iRB-Lab/PPG-N-Back-Surface.git
-cd PPG
+cd PPG-N-Back-Surface
 virtualenv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -116,7 +116,7 @@ python classify.py
       "ppg": {
         "sample_rate": <value>,
         "single_waveforms": [
-          [ ... ]
+          [ ... ],
           ...
         ]
       }
