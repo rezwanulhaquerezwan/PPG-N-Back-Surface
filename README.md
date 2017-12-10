@@ -455,7 +455,7 @@ semilogy(args, backend=None)
 [MIT License][license]
 
 [repository]: https://github.com/iRB-Lab/PPG-N-Back-Surface "iRB-Lab/PPG-N-Back-Surface"
-[license]: https://github.com/iRB-Lab/PPG-N-Back-Surface/LICENSE "License"
+[license]: https://github.com/iRB-Lab/PPG-N-Back-Surface/blob/master/LICENSE "License"
 [watch]: https://github.com/iRB-Lab/PPG-N-Back-Surface/watchers "Watchers"
 [star]: https://github.com/iRB-Lab/PPG-N-Back-Surface/stargazers "Stargazers"
 [fork]: https://github.com/iRB-Lab/PPG-N-Back-Surface/network "Forks"
